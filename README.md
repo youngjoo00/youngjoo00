@@ -3,14 +3,6 @@
 ![Yongjoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngjoo00&show_icons=true&theme=swift)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngjoo00)](https://solved.ac/youngjoo00/)
 
-# Skills
-
-### Languages
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://youngjoo-com.tistory.com/)](https://youngjoo-com.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yungjoo0624@gmail.com)](mailto:yungjoo0624@gmail.com)
